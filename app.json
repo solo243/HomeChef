@@ -1,0 +1,11 @@
+{
+  "name": "new_app",
+  "displayName": "new_app",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "335c5c58-a00d-4262-a69b-7f483b2624a0"
+      }
+    }
+  }
+}
